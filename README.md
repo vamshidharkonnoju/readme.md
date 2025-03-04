@@ -1,4 +1,4 @@
-#👋 Hi, I'm vamshidhar konnoju | DevOps Engineer
+# 👋 Hi, I'm vamshidhar konnoju | DevOps Engineer
 🚀 Bridging DevOps & DataOps with Cloud, Automation & Observability
 
 🔹 Passionate about DevOps, Cloud, and Open Source Contributions
@@ -7,8 +7,8 @@
 
 🔹 Sharing knowledge through GitHub and LinkedIn
 
-##🔧 Tech Stack & Expertise
-###⚙️ DevOps & Automation
+## 🔧 Tech Stack & Expertise
+### ⚙️ DevOps & Automation
 🔹 CI/CD: Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀
 
 🔹 Containerization & Orchestration: Docker 🐳 | Kubernetes ☸️
@@ -19,7 +19,7 @@
 
 🔹 Scripting & Automation: Bash 🖥️ | Python 🐍 | GO
 
-##☁️ Cloud & Infrastructure
+## ☁️ Cloud & Infrastructure
 🔹 AWS Cloud: EC2 🖥️ | S3 📦 | RDS 🛢️ | Lambda ⚡ | EKS ☸️ | VPC 🌐 | IAM 🔑 | Route 53 | CloudWatch | ECR | ELB | EMR
 
 🔹 Azure Cloud: Azure DevOps 🚀 | AKS ☸️ | Virtual Machines 🏗️ | VNet 🌍 | Azure Storage | Azure Entra ID | Azure Functions | Azure DNS | Azure Monitor | ACR
@@ -29,16 +29,16 @@
 
 🔹 Distributed Tracing: Jaeger 🔍
 
-##⚡ Version Control & Linux Administration
+## ⚡ Version Control & Linux Administration
 🔹 Git & GitHub: 📝 (Open Source Contributions & Projects)
 
 🔹 Linux OS: 🐧 Shell Scripting | System Administration
 
-#🏆 Open Source Contributions & GitHub Projects
+# 🏆 Open Source Contributions & GitHub Projects
 I actively contribute to DevOps, Cloud, and Automation projects.
 
-##🚀 Check out my GitHub Repositories:
-##📌 DevOps & Cloud
+## 🚀 Check out my GitHub Repositories:
+## 📌 DevOps & Cloud
 🔹 [Terraform Repository]🌍
 
 🔹 [Kubernetes Repository] ☸️
@@ -55,14 +55,14 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 🔹 [Linux Repository]
 
-#📌 Scripting & Automation
+# 📌 Scripting & Automation
 🔹 [Shell Scripting Repository] 🖥️
 
 🔹 [Python for DevOps Repository] 🐍
 
 💡 I welcome collaborations If you're interested in DevOps, Cloud, or MLOps, let's build something amazing together.
 
-##📚 Learning & Future Goals
+## 📚 Learning & Future Goals
 🚀 Currently diving deep into:
 
 🤖 MLOps: Model deployment, automation, and monitoring
@@ -71,12 +71,12 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 ☁️ AWS Solution Architect Path to design scalable cloud solutions
 
-##📢 Let's Connect
+## 📢 Let's Connect
 💼 Open to: DevOps, DataOps, and Cloud Engineering opportunities worldwide
 
 💡 Looking for: Open Source Collaborations, Networking, and Knowledge Sharing
 
-###📩 Reach out to me:
+### 📩 Reach out to me:
 🔗 LinkedIn: [www.linkedin.com/in/vamshidhar-konnoju-a08586219]
 
 💻 GitHub: [https://github.com/vamshidharkonnoju]
