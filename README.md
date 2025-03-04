@@ -81,8 +81,4 @@ I actively contribute to DevOps, Cloud, and Automation projects.
 
 💻 GitHub: [https://github.com/vamshidharkonnoju]
 
-🔗 LinkedIn: [www.linkedin.com/in/haswanth-kondamadugula-417607188]
-
-💻 GitHub: [https://github.com/Haswanthkondamadugula]
-
 ⭐ If you find my work helpful, please consider starring my repositories and following my profile and let's innovate together 🎯
